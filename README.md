@@ -33,8 +33,6 @@ Each PE[i][j] accumulates C[i][j] = Σ A[i][k] * B[k][j]
 
 ## How to Run
 
-### Option 1: Icarus Verilog (Free, Open Source) — Recommended
-
 ```bash
 # Install (Ubuntu/Debian)
 sudo apt-get install iverilog gtkwave
